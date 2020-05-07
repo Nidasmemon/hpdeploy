@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/hpdeploy/static/css/main.221ed8a4.chunk.css",
+    "main.js": "/hpdeploy/static/js/main.58434eca.chunk.js",
+    "main.js.map": "/hpdeploy/static/js/main.58434eca.chunk.js.map",
+    "runtime-main.js": "/hpdeploy/static/js/runtime-main.ad0c5bc3.js",
+    "runtime-main.js.map": "/hpdeploy/static/js/runtime-main.ad0c5bc3.js.map",
+    "static/js/2.f9fb18d4.chunk.js": "/hpdeploy/static/js/2.f9fb18d4.chunk.js",
+    "static/js/2.f9fb18d4.chunk.js.map": "/hpdeploy/static/js/2.f9fb18d4.chunk.js.map",
+    "index.html": "/hpdeploy/index.html",
+    "precache-manifest.aa487407e3b4a5d7136dd4d01e2c31f0.js": "/hpdeploy/precache-manifest.aa487407e3b4a5d7136dd4d01e2c31f0.js",
+    "service-worker.js": "/hpdeploy/service-worker.js",
+    "static/css/main.221ed8a4.chunk.css.map": "/hpdeploy/static/css/main.221ed8a4.chunk.css.map",
+    "static/js/2.f9fb18d4.chunk.js.LICENSE.txt": "/hpdeploy/static/js/2.f9fb18d4.chunk.js.LICENSE.txt",
+    "static/media/bellatrix.png": "/hpdeploy/static/media/bellatrix.94bcf6d5.png",
+    "static/media/draco.png": "/hpdeploy/static/media/draco.09b21bb5.png",
+    "static/media/dumbledore.png": "/hpdeploy/static/media/dumbledore.91d1f003.png",
+    "static/media/ginny.png": "/hpdeploy/static/media/ginny.782e0727.png",
+    "static/media/hagrid.png": "/hpdeploy/static/media/hagrid.f54ec2b0.png",
+    "static/media/harry.png": "/hpdeploy/static/media/harry.cd7d9d8e.png",
+    "static/media/harrybackground.png": "/hpdeploy/static/media/harrybackground.569627c8.png",
+    "static/media/hermione.png": "/hpdeploy/static/media/hermione.54de3254.png",
+    "static/media/hp.png": "/hpdeploy/static/media/hp.c6fee9e1.png",
+    "static/media/luna.png": "/hpdeploy/static/media/luna.83e2109e.png",
+    "static/media/mcgonagall.png": "/hpdeploy/static/media/mcgonagall.f2b49eac.png",
+    "static/media/myrtle.png": "/hpdeploy/static/media/myrtle.b7439d76.png",
+    "static/media/neville.png": "/hpdeploy/static/media/neville.85cbee62.png",
+    "static/media/remus.png": "/hpdeploy/static/media/remus.85948a20.png",
+    "static/media/ron.png": "/hpdeploy/static/media/ron.9aadcfe3.png",
+    "static/media/sirius.png": "/hpdeploy/static/media/sirius.fe057c2d.png",
+    "static/media/snape.png": "/hpdeploy/static/media/snape.dc6cc606.png",
+    "static/media/trelawney.png": "/hpdeploy/static/media/trelawney.b0bf6909.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad0c5bc3.js",
+    "static/js/2.f9fb18d4.chunk.js",
+    "static/css/main.221ed8a4.chunk.css",
+    "static/js/main.58434eca.chunk.js"
+  ]
+}
