@@ -1,0 +1,81 @@
+[{
+    "id": 1,
+    "alt": "Harry Potter",
+    "img": "harry.png"
+},
+{
+    "id": 2,
+    "alt": "Hermione",
+    "img": "hermione.png"
+},
+{
+    "id": 3,
+    "alt": "Ron",
+    "img": "ron.png"
+},
+{
+    "id": 4,
+    "alt": "Dumbledore",
+    "img": "dumbledore.png"
+},
+{
+    "id": 5,
+    "alt": "McGonagall",
+    "img": "mcgonagall.png"
+},
+{
+    "id": 6,
+    "alt": "Hagrid",
+    "img": "hagrid.png"
+},
+{
+    "id": 7,
+    "alt": "Snape",
+    "img": "snape.png"
+},
+{
+    "id": 8,
+    "alt": "Sirius",
+    "img": "sirius.png"
+},
+{
+    "id": 9,
+    "alt": "Ginny",
+    "img": "ginny.png"
+},
+{
+    "id": 10,
+    "alt": "Luna",
+    "img": "luna.png"
+},
+{
+    "id": 11,
+    "alt": "Draco",
+    "img": "draco.png"
+},
+{
+    "id": 12,
+    "alt": "Remus",
+    "img": "remus.png"
+},
+{
+    "id": 13,
+    "alt": "Neville",
+    "img": "neville.png"
+},
+{
+    "id": 14,
+    "alt": "Bellatrix",
+    "img": "bellatrix.png"
+},
+{
+    "id": 15,
+    "alt": "Myrtle",
+    "img": "myrtle.png"
+},
+{
+    "id": 16,
+    "alt": "Trelawney",
+    "img": "trelawney.png"
+}
+]
